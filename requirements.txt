@@ -1,0 +1,9 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+jupytext
+ruff
+black
+pytest
